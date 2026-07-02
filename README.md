@@ -1,5 +1,5 @@
-# I Code :)
-Hello, my name is Tim, i am from small city in Slovakia called Martin.
+# Hello,
+my name is Tim, i am from small city in Slovakia called Martin.
 At this moment i mainly work on FiveM projects, like servers, scripts etc.
 My pations in life are gym, video games, learning and experimenting.
 
